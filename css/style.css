@@ -53,5 +53,8 @@ header .header-content {
   text-align: center;
 }
 .backgroud-contato{
-  background-color: #D9955A
+  background-color: #D9955A !important
+}
+.imgfull{
+  width: 100%;
 }
